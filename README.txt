@@ -1,3 +1,4 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/InstantMizu/pen/QEXVJo.
+Bar Chart With D3
 
+https://shintouki.github.io/bar-chart-with-d3/
  
